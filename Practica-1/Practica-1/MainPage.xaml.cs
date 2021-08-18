@@ -14,7 +14,7 @@ namespace Practica_1
         {
             InitializeComponent();
 
-            InitializationEventAttribute();
+            
         }
     }
 }
