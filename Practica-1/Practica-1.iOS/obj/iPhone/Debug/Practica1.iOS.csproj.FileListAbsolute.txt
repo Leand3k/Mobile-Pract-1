@@ -56,3 +56,13 @@ C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamar
 C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.iOS\obj\iPhone\Debug\Practica1.iOS.csproj.CopyComplete
 C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.iOS\obj\iPhone\Debug\Practica-1.iOS.exe
 C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.iOS\obj\iPhone\Debug\Practica-1.iOS.pdb
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.iOS\obj\iPhone\Debug\optimized\
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.iOS\obj\iPhone\Debug\Practica1.iOS.csproj.AssemblyReference.cache
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.iOS\obj\iPhone\Debug\Practica1.iOS.csproj.CoreCompileInputs.cache
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.iOS\obj\iPhone\Debug\Practica-1.iOS.exe
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.iOS\obj\iPhone\Debug\Practica-1.iOS.pdb

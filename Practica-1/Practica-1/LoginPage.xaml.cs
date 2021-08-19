@@ -21,27 +21,39 @@ namespace Practica1
 
         }
 
-        private void Button_Clicked(object sender, EventArgs e)
+        private async void OnButtonClicked(object sender, EventArgs e)
         {
 
            
 
-            if ((string.IsNullOrEmpty(Username.Text) || (string.IsNullOrWhiteSpace(Username.Text))))
+            //if ((string.IsNullOrEmpty(Username.Text) || (string.IsNullOrWhiteSpace(Username.Text))))
+            //{
+            //    DisplayAlert("Alert", "There is no content in username. Try again.", "Retry");
+            //}
+            //else
+            //{
+            //    if ((string.IsNullOrEmpty(Password.Text) || (string.IsNullOrWhiteSpace(Password.Text))))
+            //    {
+            //        DisplayAlert("Alert", "There is no content in password. Try again.", "Retry");
+            //    }
+            //    else
+            //    {
+            //        DisplayAlert("Welcome", $"Hi {Username.Text}", "Ok");
+            //    }
+            //}
+            
+            if (string.IsNullOrEmpty(UsernameEntry.Text))
             {
-                DisplayAlert("Alert", "There is no content in username. Try again.", "Retry");
+                await DisplayAlert("Alert", "There is no content in username. Try again.", "Retry");
+            }
+            else if (string.IsNullOrEmpty(PasswordEntry.Text))
+            {
+                 await DisplayAlert("Alert", "There is no content in password. Try again.", "Retry");
             }
             else
             {
-                if ((string.IsNullOrEmpty(Password.Text) || (string.IsNullOrWhiteSpace(Password.Text))))
-                {
-                    DisplayAlert("Alert", "There is no content in password. Try again.", "Retry");
-                }
-                else
-                {
-                    DisplayAlert("Welcome", $"Hi {Username.Text}", "Ok");
-                }
+                 await DisplayAlert("Welcome", $"Hi {UsernameEntry.Text}", "Ok");
             }
-            
 
             
 

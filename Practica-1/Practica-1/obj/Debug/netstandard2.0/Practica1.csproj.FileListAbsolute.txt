@@ -29,4 +29,3 @@ C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica
 C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.dll
 C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\ref\Practica1.dll
 C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.pdb
-C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.csproj.AssemblyReference.cache

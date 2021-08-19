@@ -5,17 +5,6 @@
              BackgroundColor="#FFF7F7F7">
             
 
-    
-    <!--<ContentPage.Content>
-        
-        
-        
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content>-->
 
 
 
@@ -26,7 +15,7 @@
 
 
         <Entry 
-            x:Name="Username"
+            x:Name="UsernameEntry"
             Placeholder="Username" 
             PlaceholderColor="LightGray" 
             HorizontalOptions="Center"
@@ -36,7 +25,7 @@
             />
 
         <Entry
-            x:Name="Password"
+            x:Name="PasswordEntry"
             Placeholder="Password" 
             PlaceholderColor="LightGray"
             
@@ -50,17 +39,18 @@
 
 
         <Button 
-            x:Name="ButtonLogin"
+            x:Name="buttonLogin"
             HorizontalOptions="Center"
             VerticalOptions="Center"
             HeightRequest="40"
             TextColor="#FFF7F7F7"
             Text="Login"
             WidthRequest="250"
-            Clicked="Button_Clicked"
+            Clicked="OnButtonClicked"
             Background="#FFFE5F65"
             BorderColor="#FFFE5F65"></Button>
-        
+
+ 
         
         
         
