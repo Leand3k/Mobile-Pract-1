@@ -151,7 +151,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "Practica-1/1.0.0": {
+      "Practica1/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -159,10 +159,10 @@
           "Xamarin.Forms": "5.0.0.2012"
         },
         "compile": {
-          "bin/placeholder/Practica-1.dll": {}
+          "bin/placeholder/Practica1.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Practica-1.dll": {}
+          "bin/placeholder/Practica1.dll": {}
         }
       }
     },
@@ -316,7 +316,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "Practica-1/1.0.0": {
+      "Practica1/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -324,10 +324,10 @@
           "Xamarin.Forms": "5.0.0.2012"
         },
         "compile": {
-          "bin/placeholder/Practica-1.dll": {}
+          "bin/placeholder/Practica1.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Practica-1.dll": {}
+          "bin/placeholder/Practica1.dll": {}
         }
       }
     },
@@ -481,7 +481,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "Practica-1/1.0.0": {
+      "Practica1/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -489,10 +489,10 @@
           "Xamarin.Forms": "5.0.0.2012"
         },
         "compile": {
-          "bin/placeholder/Practica-1.dll": {}
+          "bin/placeholder/Practica1.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Practica-1.dll": {}
+          "bin/placeholder/Practica1.dll": {}
         }
       }
     },
@@ -646,7 +646,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "Practica-1/1.0.0": {
+      "Practica1/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -654,10 +654,10 @@
           "Xamarin.Forms": "5.0.0.2012"
         },
         "compile": {
-          "bin/placeholder/Practica-1.dll": {}
+          "bin/placeholder/Practica1.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Practica-1.dll": {}
+          "bin/placeholder/Practica1.dll": {}
         }
       }
     }
@@ -977,15 +977,15 @@
         "xamarin.forms.nuspec"
       ]
     },
-    "Practica-1/1.0.0": {
+    "Practica1/1.0.0": {
       "type": "project",
-      "path": "../Practica-1/Practica-1.csproj",
-      "msbuildProject": "../Practica-1/Practica-1.csproj"
+      "path": "../Practica-1/Practica1.csproj",
+      "msbuildProject": "../Practica-1/Practica1.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
-      "Practica-1 >= 1.0.0",
+      "Practica1 >= 1.0.0",
       "Xamarin.Essentials >= 1.6.1",
       "Xamarin.Forms >= 5.0.0.2012"
     ]
@@ -997,11 +997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1.iOS\\Practica-1.iOS.csproj",
-      "projectName": "Practica-1.iOS",
-      "projectPath": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1.iOS\\Practica-1.iOS.csproj",
+      "projectUniqueName": "C:\\RepositorioLocal\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1.iOS\\Practica1.iOS.csproj",
+      "projectName": "Practica1.iOS",
+      "projectPath": "C:\\RepositorioLocal\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1.iOS\\Practica1.iOS.csproj",
       "packagesPath": "C:\\Users\\thele\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1.iOS\\obj\\",
+      "outputPath": "C:\\RepositorioLocal\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1022,8 +1022,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica-1.csproj": {
-              "projectPath": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica-1.csproj"
+            "C:\\RepositorioLocal\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica1.csproj": {
+              "projectPath": "C:\\RepositorioLocal\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica1.csproj"
             }
           }
         }

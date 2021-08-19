@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jXzyCAVopY5l7hkxmAk6BManv7uk2x6FIw6SC0uFIbUjM84ffeolF/ghLOVikzLN4KokSKauycRaFTJbN/XfDQ==",
+  "dgSpecHash": "cYcow0UsP5vT1EJEtK9bFzSmyRgtnfgXgIIU9UnsiAmFWifo29zao0iAvSIWNfr6o6RtK5zn94LBKiH7nzGrlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica-1.csproj",
+  "projectFilePath": "C:\\RepositorioLocal\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thele\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\thele\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Practica1;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,7 +11,9 @@ namespace Practica_1
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new LoginPage();
+
+            
         }
 
         protected override void OnStart()

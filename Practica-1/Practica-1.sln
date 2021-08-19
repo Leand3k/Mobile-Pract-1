@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica-1.Android", "Practica-1.Android\Practica-1.Android.csproj", "{B9335D03-CE32-4861-902C-7AC94A67FC11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica1.Android", "Practica-1.Android\Practica1.Android.csproj", "{B9335D03-CE32-4861-902C-7AC94A67FC11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica-1.iOS", "Practica-1.iOS\Practica-1.iOS.csproj", "{64D7C455-B87B-4195-9AAE-BE69EC754EB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica1.iOS", "Practica-1.iOS\Practica1.iOS.csproj", "{64D7C455-B87B-4195-9AAE-BE69EC754EB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica-1", "Practica-1\Practica-1.csproj", "{32B4AFA5-81AA-427A-92A4-B853BBBEFB47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practica1", "Practica-1\Practica1.csproj", "{32B4AFA5-81AA-427A-92A4-B853BBBEFB47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

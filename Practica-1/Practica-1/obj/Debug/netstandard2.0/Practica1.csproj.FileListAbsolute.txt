@@ -1,0 +1,32 @@
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\bin\Debug\netstandard2.0\Practica1.deps.json
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\bin\Debug\netstandard2.0\Practica1.dll
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\bin\Debug\netstandard2.0\ref\Practica1.dll
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\bin\Debug\netstandard2.0\Practica1.pdb
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.csproj.AssemblyReference.cache
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.AssemblyInfoInputs.cache
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.AssemblyInfo.cs
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.dll
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\ref\Practica1.dll
+C:\Users\thele\OneDrive - INTEC\Repositorio crossplatform\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.pdb
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\bin\Debug\netstandard2.0\Practica1.deps.json
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\bin\Debug\netstandard2.0\Practica1.dll
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\bin\Debug\netstandard2.0\ref\Practica1.dll
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\bin\Debug\netstandard2.0\Practica1.pdb
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.csproj.AssemblyReference.cache
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.AssemblyInfoInputs.cache
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.AssemblyInfo.cs
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.csproj.CoreCompileInputs.cache
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.dll
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\ref\Practica1.dll
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1\obj\Debug\netstandard2.0\Practica1.pdb

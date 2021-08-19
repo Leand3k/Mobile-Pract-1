@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica-1.csproj": {
-                "projectPath": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica-1.csproj"
+              "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica1.csproj": {
+                "projectPath": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica1.csproj"
               }
             }
           }
@@ -65,12 +65,12 @@
         }
       }
     },
-    "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica-1.csproj": {
+    "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica-1.csproj",
-        "projectName": "Practica-1",
-        "projectPath": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica-1.csproj",
+        "projectUniqueName": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica1.csproj",
+        "projectName": "Practica1",
+        "projectPath": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica1.csproj",
         "packagesPath": "C:\\Users\\thele\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\obj\\",
         "projectStyle": "PackageReference",

@@ -540,11 +540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica-1.csproj",
-      "projectName": "Practica-1",
-      "projectPath": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica-1.csproj",
+      "projectUniqueName": "C:\\RepositorioLocal\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica1.csproj",
+      "projectName": "Practica1",
+      "projectPath": "C:\\RepositorioLocal\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\Practica1.csproj",
       "packagesPath": "C:\\Users\\thele\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\obj\\",
+      "outputPath": "C:\\RepositorioLocal\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

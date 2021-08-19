@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica1.LoginPage">
+
+    
+    <!--<ContentPage.Content>
+        
+        
+        
+        <StackLayout>
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>-->
+
+    <StackLayout VerticalOptions="Center" Spacing="10" >
+
+
+        <Entry 
+            x:Name="Username"
+            Placeholder="Username" 
+            PlaceholderColor="LightGray" 
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            WidthRequest="300"
+            ClearButtonVisibility="WhileEditing"
+            />
+
+        <Entry
+            x:Name="Password"
+            Placeholder="Password" 
+            PlaceholderColor="LightGray" 
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            WidthRequest="300"
+            IsPassword="True"
+            
+            ClearButtonVisibility="WhileEditing"
+            />
+
+
+        <Button 
+            x:Name="ButtonLogin"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            HeightRequest="40"
+            Text="Login"
+            WidthRequest="250"
+            Clicked="Button_Clicked" 
+            BorderColor="LightBlue"></Button>
+        
+        
+        
+        
+
+    </StackLayout>
+
+    
+    
+    
+</ContentPage>

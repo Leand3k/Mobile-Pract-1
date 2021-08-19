@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h0zn6ooSflaSDr9+ShClnyXO7trPJZVyEz7Q0R0EtkdOZI1d6orvDSgKq+HseB33xJwFBTIB+evMPTBmT41Trg==",
+  "dgSpecHash": "NM2Aw7RSRY1oBXDLSvlJ6dGZrDo9zPPTwqzdXFcWKZTvvThUSVhH4jtHAiq1fp5u7fB1+8B7fzCrwL/Rv5kRBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thele\\OneDrive - INTEC\\Repositorio crossplatform\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1.Android\\Practica-1.Android.csproj",
+  "projectFilePath": "C:\\RepositorioLocal\\Desarrollo Movil Xamarin\\Practica -1\\Mobile-Pract-1\\Practica-1\\Practica-1.Android\\Practica1.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thele\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

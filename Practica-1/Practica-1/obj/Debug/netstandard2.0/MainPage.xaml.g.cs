@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Practica-1.MainPage.xaml", "MainPage.xaml", typeof(global::Practica_1.MainPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Practica1.MainPage.xaml", "MainPage.xaml", typeof(global::Practica_1.MainPage))]
 
 namespace Practica_1 {
     
