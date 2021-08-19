@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Practica1.LoginPage">
+             x:Class="Practica1.LoginPage"
+             BackgroundColor="#FFF7F7F7">
+            
 
     
     <!--<ContentPage.Content>
@@ -14,13 +16,13 @@
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
     </ContentPage.Content>-->
-    
-    
-
-    <StackLayout VerticalOptions="Center" Spacing="10" >
 
 
-        <Image Source="res" HeightRequest="300" HorizontalOptions="Center"></Image>
+
+    <StackLayout VerticalOptions="Center" Spacing="10"  >
+
+        
+            <Image Source="web_hi_res_512.png" HeightRequest="300" HorizontalOptions="Center" />
 
 
         <Entry 
@@ -36,7 +38,8 @@
         <Entry
             x:Name="Password"
             Placeholder="Password" 
-            PlaceholderColor="LightGray" 
+            PlaceholderColor="LightGray"
+            
             HorizontalOptions="Center"
             VerticalOptions="Center"
             WidthRequest="300"
@@ -51,10 +54,12 @@
             HorizontalOptions="Center"
             VerticalOptions="Center"
             HeightRequest="40"
+            TextColor="#FFF7F7F7"
             Text="Login"
             WidthRequest="250"
-            Clicked="Button_Clicked" 
-            BorderColor="LightBlue"></Button>
+            Clicked="Button_Clicked"
+            Background="#FFFE5F65"
+            BorderColor="#FFFE5F65"></Button>
         
         
         
