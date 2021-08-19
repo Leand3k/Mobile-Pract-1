@@ -14,8 +14,13 @@
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
     </ContentPage.Content>-->
+    
+    
 
     <StackLayout VerticalOptions="Center" Spacing="10" >
+
+
+        <Image Source="res" HeightRequest="300" HorizontalOptions="Center"></Image>
 
 
         <Entry 

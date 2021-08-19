@@ -1355,3 +1355,13 @@ C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica
 C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.Android\obj\Debug\110\res\mipmap-hdpi\airbnbresolutionshdpi.png
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.Android\obj\Debug\110\res\mipmap-mdpi\airbnbresolutions.png
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.Android\obj\Debug\110\res\mipmap-xhdpi\airbnbresolutions.png
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.Android\obj\Debug\110\res\mipmap-xxhdpi\airbnbresolutions.png
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.Android\obj\Debug\110\res\mipmap-xxxhdpi\airbnbresolutions.png
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.Android\obj\Debug\110\res\drawable\res\mipmap-hdpi\airbnbresolutions.png
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.Android\obj\Debug\110\res\drawable\res\mipmap-mdpi\airbnbresolutions.png
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.Android\obj\Debug\110\res\drawable\res\mipmap-xhdpi\airbnbresolutions.png
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.Android\obj\Debug\110\res\drawable\res\mipmap-xxhdpi\airbnbresolutions.png
+C:\RepositorioLocal\Desarrollo Movil Xamarin\Practica -1\Mobile-Pract-1\Practica-1\Practica-1.Android\obj\Debug\110\res\drawable\res\mipmap-xxxhdpi\airbnbresolutions.png
