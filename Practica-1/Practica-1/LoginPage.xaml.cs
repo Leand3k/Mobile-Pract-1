@@ -24,43 +24,20 @@ namespace Practica1
         private async void OnButtonClicked(object sender, EventArgs e)
         {
 
-           
-
-            //if ((string.IsNullOrEmpty(Username.Text) || (string.IsNullOrWhiteSpace(Username.Text))))
-            //{
-            //    DisplayAlert("Alert", "There is no content in username. Try again.", "Retry");
-            //}
-            //else
-            //{
-            //    if ((string.IsNullOrEmpty(Password.Text) || (string.IsNullOrWhiteSpace(Password.Text))))
-            //    {
-            //        DisplayAlert("Alert", "There is no content in password. Try again.", "Retry");
-            //    }
-            //    else
-            //    {
-            //        DisplayAlert("Welcome", $"Hi {Username.Text}", "Ok");
-            //    }
-            //}
-            
-            if (string.IsNullOrEmpty(UsernameEntry.Text))
+            if (string.IsNullOrEmpty(usernameEntry.Text))
             {
                 await DisplayAlert("Alert", "There is no content in username. Try again.", "Retry");
             }
-            else if (string.IsNullOrEmpty(PasswordEntry.Text))
+            else if (string.IsNullOrEmpty(passwordEntry.Text))
             {
                  await DisplayAlert("Alert", "There is no content in password. Try again.", "Retry");
             }
             else
             {
-                 await DisplayAlert("Welcome", $"Hi {UsernameEntry.Text}", "Ok");
+                 await DisplayAlert("Welcome", $"Hi {usernameEntry.Text}", "Ok");
             }
 
             
-
-            
-
-            //DisplayAlert("Test", "Hello", "Ok");
-
         }
 
         
